@@ -21,4 +21,17 @@ body {
 
 .country-list {
   list-style: none;
+  padding-inline-start: 0; 
 }
+
+.flag-item {
+  display: block;
+ }
+
+.name_official {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 22px;
+  font-weight: 400;
+  vertical-align: top;
+ }
